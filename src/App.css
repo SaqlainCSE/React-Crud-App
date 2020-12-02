@@ -3,6 +3,12 @@
   margin: auto;
 }
 
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
 .App {
   text-align: center;
 }
